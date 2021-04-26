@@ -1,17 +1,17 @@
 
 
-create procedure agregarCLIENTE
+create procedure agregarCREDITO
 
 @Id_factura NVARCHAR (16), @Id_Factura_venta NVARCHAR (20), @Id_cliente int, @Monto NVARCHAR (30)
 as
 begin
 
-insert into CLIENTE(Id_factura, Id_Factura_venta, Id_cliente, Monto)
+insert into CREDITO(Id_factura, Id_Factura_venta, Id_cliente, Monto)
 values (@Id_factura, @Id_Factura_venta, @Id_cliente, @Monto)
 end 
 
 
-create procedure editarCLIENTE
+create procedure editarCREDITO
 
 @Id_factura NVARCHAR (16), @Id_Factura_venta NVARCHAR (20), @Id_cliente int, @Monto NVARCHAR (30)
 as
@@ -21,13 +21,13 @@ update CLIENTE set Id_factura=@Id_factura, Id_Factura_venta=@Id_Factura_venta, I
 where Id_factura=Id_factura
 
 
- create procedure eliminarCLIENTE
+ create procedure eliminarCREDITO
  @Id_factura NVARCHAR (20)
 
  as
  begin
 
- delete from CLIENTE
+ delete from CREDITO
 
  where Id_factura=@Id_factura
  end 
