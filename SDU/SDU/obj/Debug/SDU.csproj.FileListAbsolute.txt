@@ -1,0 +1,9 @@
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\bin\Debug\SDU.exe.config
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\bin\Debug\SDU.exe
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\bin\Debug\SDU.pdb
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.csprojResolveAssemblyReference.cache
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.Properties.Resources.resources
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.csproj.GenerateResource.Cache
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.exe
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.pdb
+D:\VS STUDIO 2015\proyectos\ESPECIALIZANTE\PRACTICA\Practica_SDU\SDU\SDU\obj\Debug\SDU.Form1.resources
